@@ -9,7 +9,7 @@ Official releases of this add-on are available at http://vaadin.com/addon/vaadin
 ## Building TouchKit
 
     git clone https://github.com/vaadin/touchkit.git
-    cd touchkit
+    cd touchkit/vaadin-touchkit-agpl
     mvn clean install
 
 ## Issue tracking
